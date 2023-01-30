@@ -16,6 +16,7 @@
     "@mui/x-date-pickers": "5.0.0-alpha.0",
     "@sj-ab/component-library.styles.themes": "0.0.2",
     "@sj-ab/component-library.ui.container": "^2.0.3",
+    "@sj-ab/component-library.ui.flow-button": "^1.0.32",
     "@sj-ab/component-library.ui.grid": "^1.0.15",
     "@sj-ab/component-library.ui.select": "^1.0.36",
     "@sj-ab/component-library.ui.spacing": "^1.0.9",
